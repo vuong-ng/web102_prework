@@ -9,6 +9,13 @@ body {
     width: 50px;
 }
 
+.game-card{
+    text-align: center;
+    padding: 15px;
+    border:1px solid none;
+    box-sizing:border-box;
+}
+
 .header {
     display: flex;
     background-color: lightblue;

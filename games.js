@@ -1,4 +1,5 @@
 // Image credits: Kickstarter
+var formatter = new Intl.NumberFormat("en-US");
 const games = ` [
   {
     "name": "Heroes Of Mythic Americas",
