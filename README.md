@@ -34,7 +34,9 @@ GIF created with LiceCap
 
 ## Notes
 
-<!--Describe any challenges encountered while building the app.-->
+Things that I can do to improve the app functionality:
+- Implement transaction so that donors can sponsor game that has not met the funding goals.
+- Create a pop up modal to display more information about each game when user click on each game card.
 
 ## License
 
